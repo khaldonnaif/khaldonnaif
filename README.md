@@ -1,5 +1,5 @@
 # 💫 About Me:
-An aspiring SaaS Developer in the 11th Grade.
+An aspiring Embedded Systems Engineers in the 12th Grade.
 
 
 # 💻 Tech Stack:
